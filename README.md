@@ -1,4 +1,4 @@
-## Oi, Sou o Pedro! 
+## <img src="https://i.imgur.com/kY81eLf.png" width="660" height="500"/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooliveiraads/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pero_opero/) 
@@ -11,7 +11,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-loliveira&hide_progress=true) <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="92" height="92"/>
 
-
-##
-#### Adeus, agora irei ignorar a documentação e ficar horas pensando do porque, como, quando o time.sleep() deu errado!
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="250" height="250"/>
