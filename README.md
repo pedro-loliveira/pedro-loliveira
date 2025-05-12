@@ -8,6 +8,6 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["Python", "Em Desenvolvimento"];
-  bibliotecas = ["Em Desenvolvimento"];
-  frameworks = ["Em Desenvolvimento"];
+  bibliotecas = [Tkinter, pyautogui, pandas, "Em Desenvolvimento"];
+  frameworks = [Streamlit, "Em Desenvolvimento"];
 }
